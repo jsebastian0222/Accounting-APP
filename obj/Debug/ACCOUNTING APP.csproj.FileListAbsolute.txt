@@ -1,0 +1,104 @@
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ACCOUNTING APP.exe.config
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ACCOUNTING APP.exe
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ACCOUNTING APP.pdb
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.AssemblyReference.cache
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form1.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Properties.Resources.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.GenerateResource.cache
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.CoreCompileInputs.cache
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.exe
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.pdb
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form2.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form3.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form4.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form10.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form11.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form12.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form5.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form6.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form7.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form8.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form9.resources
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\MySql.Data.dll
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\Google.Protobuf.dll
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ZstdNet.dll
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\System.Buffers.dll
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\MySql.Data.xml
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.exe.config
+C:\Users\M.S.I\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.CopyComplete
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ACCOUNTING APP.exe.config
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ACCOUNTING APP.exe
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ACCOUNTING APP.pdb
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\Google.Protobuf.dll
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ZstdNet.dll
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\System.Buffers.dll
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\MySql.Data.xml
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.AssemblyReference.cache
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.exe.config
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form1.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form10.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form11.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form12.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form2.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form3.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form4.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form5.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form6.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form7.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form8.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form9.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Properties.Resources.resources
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.GenerateResource.cache
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.CoreCompileInputs.cache
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.CopyComplete
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.exe
+C:\Users\Lolz\source\repos\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.pdb
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ACCOUNTING APP.exe.config
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ACCOUNTING APP.exe
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ACCOUNTING APP.pdb
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\MySql.Data.dll
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\Google.Protobuf.dll
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\ZstdNet.dll
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\System.Memory.dll
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\System.Buffers.dll
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\bin\Debug\MySql.Data.xml
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.AssemblyReference.cache
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.exe.config
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form1.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form10.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form11.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form12.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form2.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form3.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form4.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form5.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form6.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form7.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form8.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Form9.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING_APP.Properties.Resources.resources
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.GenerateResource.cache
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.CoreCompileInputs.cache
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.CopyComplete
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.exe
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.pdb
+C:\Users\M.S.I\Downloads\ACCOUNTING APP(2)\ACCOUNTING APP\ACCOUNTING APP\obj\Debug\ACCOUNTING APP.csproj.SuggestedBindingRedirects.cache
